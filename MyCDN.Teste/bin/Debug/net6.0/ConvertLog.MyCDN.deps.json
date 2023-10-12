@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v6.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v6.0": {
+      "ConvertLog.MyCDN/1.0.0": {
+        "runtime": {
+          "ConvertLog.MyCDN.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "ConvertLog.MyCDN/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

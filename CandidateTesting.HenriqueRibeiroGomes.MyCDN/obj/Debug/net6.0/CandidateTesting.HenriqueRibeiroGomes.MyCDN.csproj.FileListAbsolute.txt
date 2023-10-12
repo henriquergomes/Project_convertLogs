@@ -1,0 +1,15 @@
+/Users/henriqueribeirogomes/Projects/CandidateTesting.HenriqueRibeiroGomes.MyCDN/CandidateTesting.HenriqueRibeiroGomes.MyCDN/bin/Debug/net6.0/CandidateTesting.HenriqueRibeiroGomes.MyCDN
+/Users/henriqueribeirogomes/Projects/CandidateTesting.HenriqueRibeiroGomes.MyCDN/CandidateTesting.HenriqueRibeiroGomes.MyCDN/bin/Debug/net6.0/CandidateTesting.HenriqueRibeiroGomes.MyCDN.deps.json
+/Users/henriqueribeirogomes/Projects/CandidateTesting.HenriqueRibeiroGomes.MyCDN/CandidateTesting.HenriqueRibeiroGomes.MyCDN/bin/Debug/net6.0/CandidateTesting.HenriqueRibeiroGomes.MyCDN.runtimeconfig.json
+/Users/henriqueribeirogomes/Projects/CandidateTesting.HenriqueRibeiroGomes.MyCDN/CandidateTesting.HenriqueRibeiroGomes.MyCDN/bin/Debug/net6.0/CandidateTesting.HenriqueRibeiroGomes.MyCDN.dll
+/Users/henriqueribeirogomes/Projects/CandidateTesting.HenriqueRibeiroGomes.MyCDN/CandidateTesting.HenriqueRibeiroGomes.MyCDN/bin/Debug/net6.0/CandidateTesting.HenriqueRibeiroGomes.MyCDN.pdb
+/Users/henriqueribeirogomes/Projects/CandidateTesting.HenriqueRibeiroGomes.MyCDN/CandidateTesting.HenriqueRibeiroGomes.MyCDN/obj/Debug/net6.0/CandidateTesting.HenriqueRibeiroGomes.MyCDN.csproj.AssemblyReference.cache
+/Users/henriqueribeirogomes/Projects/CandidateTesting.HenriqueRibeiroGomes.MyCDN/CandidateTesting.HenriqueRibeiroGomes.MyCDN/obj/Debug/net6.0/CandidateTesting.HenriqueRibeiroGomes.MyCDN.GeneratedMSBuildEditorConfig.editorconfig
+/Users/henriqueribeirogomes/Projects/CandidateTesting.HenriqueRibeiroGomes.MyCDN/CandidateTesting.HenriqueRibeiroGomes.MyCDN/obj/Debug/net6.0/CandidateTesting.HenriqueRibeiroGomes.MyCDN.AssemblyInfoInputs.cache
+/Users/henriqueribeirogomes/Projects/CandidateTesting.HenriqueRibeiroGomes.MyCDN/CandidateTesting.HenriqueRibeiroGomes.MyCDN/obj/Debug/net6.0/CandidateTesting.HenriqueRibeiroGomes.MyCDN.AssemblyInfo.cs
+/Users/henriqueribeirogomes/Projects/CandidateTesting.HenriqueRibeiroGomes.MyCDN/CandidateTesting.HenriqueRibeiroGomes.MyCDN/obj/Debug/net6.0/CandidateTesting.HenriqueRibeiroGomes.MyCDN.csproj.CoreCompileInputs.cache
+/Users/henriqueribeirogomes/Projects/CandidateTesting.HenriqueRibeiroGomes.MyCDN/CandidateTesting.HenriqueRibeiroGomes.MyCDN/obj/Debug/net6.0/CandidateTesting.HenriqueRibeiroGomes.MyCDN.dll
+/Users/henriqueribeirogomes/Projects/CandidateTesting.HenriqueRibeiroGomes.MyCDN/CandidateTesting.HenriqueRibeiroGomes.MyCDN/obj/Debug/net6.0/refint/CandidateTesting.HenriqueRibeiroGomes.MyCDN.dll
+/Users/henriqueribeirogomes/Projects/CandidateTesting.HenriqueRibeiroGomes.MyCDN/CandidateTesting.HenriqueRibeiroGomes.MyCDN/obj/Debug/net6.0/CandidateTesting.HenriqueRibeiroGomes.MyCDN.pdb
+/Users/henriqueribeirogomes/Projects/CandidateTesting.HenriqueRibeiroGomes.MyCDN/CandidateTesting.HenriqueRibeiroGomes.MyCDN/obj/Debug/net6.0/CandidateTesting.HenriqueRibeiroGomes.MyCDN.genruntimeconfig.cache
+/Users/henriqueribeirogomes/Projects/CandidateTesting.HenriqueRibeiroGomes.MyCDN/CandidateTesting.HenriqueRibeiroGomes.MyCDN/obj/Debug/net6.0/ref/CandidateTesting.HenriqueRibeiroGomes.MyCDN.dll
